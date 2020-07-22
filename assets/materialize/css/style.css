@@ -1,0 +1,12 @@
+.modal-close-x{
+    float: right;
+}
+nav.header div{
+    padding: 0px 15px;
+}
+
+.modal-close{color:#f44336 !important;}
+
+.btn-padrao{background: #039BE5;}
+
+tr#filter a{ display: unset !important;}
